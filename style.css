@@ -26,6 +26,11 @@ body {
 }
 
 /* PLANET STUFF */
-.planet, .sun {
+.planet, .sun, .star {
   position: absolute;
+}
+
+.star {
+  max-width: 5%;
+  height: auto;
 }
