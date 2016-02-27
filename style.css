@@ -30,7 +30,13 @@ body {
   position: absolute;
 }
 
-.star {
-  max-width: 5%;
+.star, .planet {
+  max-width: 10%;
   height: auto;
+}
+
+h1 {
+  margin: auto;
+  text-align: center;
+  margin-top: 1em;
 }
